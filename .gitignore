@@ -182,3 +182,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+01-02-Persistent-Connection/packages/Microsoft.jQuery.Unobtrusive.Validation.3.0.0/Content/Scripts/jquery.validate.unobtrusive.js
+01-02-Persistent-Connection/packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll
+01-02-Persistent-Connection/packages/
